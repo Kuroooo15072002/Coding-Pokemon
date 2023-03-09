@@ -1,0 +1,49 @@
+.ha{
+    display: inline;
+}
+.stats{
+    display: inline;
+}
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+h1{
+    border:solid white;
+    border-radius: 20px 0 20px 0;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans','Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode','Geneva';
+}
+a{
+    color: aqua;
+}
+table , th, td {
+    color: white;
+    border: 1px solid pink;
+    padding: 10px;
+}
+.supergoodstats{
+    background-color: green;
+    color: black;
+}
+.goodstats{
+      background-color: greenyellow;
+      color: black;
+}
+.mediumstats{
+    background-color: yellow;
+    color: black;
+}
+.total{
+    background-color: white;
+    color: black;
+}
+img{
+    border-radius: 20px 0 20px;
+    margin: 20px 0 0 150px;
+    border: solid 6px purple;
+}
